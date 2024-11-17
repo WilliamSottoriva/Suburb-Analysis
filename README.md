@@ -7,4 +7,4 @@ trends. We then conclude by relating these findings to practical advice for a pr
 
 Below is an example of the types of charts in this report:
 
-![image](https://github.com/user-attachments/assets/fc2ca4cd-60a6-4141-9fc3-35b53a862ab6)
+![image](https://github.com/user-attachments/assets/a8e89862-fc11-44cd-884b-7f0fc343bba7)
